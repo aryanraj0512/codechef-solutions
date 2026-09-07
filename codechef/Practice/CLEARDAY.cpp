@@ -1,10 +1,9 @@
-// Problem: PROBLEM LINK:
+// Problem: CLEARDAY
 // Platform: codechef
-// Language: x, y = map(int, input().split())
-print(7-x-y)
+// Language: C++​
 // Verdict: Accepted
-// URL: https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CLEARDAY?tab=solution
-// Solved on: 2026-09-07T18:34:50.442Z
+// URL: https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CLEARDAY
+// Solved on: 2026-09-07T18:35:33.530Z
 
 #include <bits/stdc++.h>
 using namespace std;
