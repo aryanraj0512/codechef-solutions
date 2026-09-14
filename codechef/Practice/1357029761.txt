@@ -1,0 +1,8 @@
+// Problem: Kitchen Timings
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/viewsolution/1357029761
+// Solved on: 2026-09-14T15:52:50.387Z
+
+// source not captured automatically - open the solution page and copy it manually
