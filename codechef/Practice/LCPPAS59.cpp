@@ -3,7 +3,7 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/skill-test/LCPPAS1/problems/LCPPAS59
-// Solved on: 2026-09-20T15:26:04.928Z
+// Solved on: 2026-09-20T15:26:50.529Z
 
 #include <iostream>
 using namespace std;
@@ -11,7 +11,7 @@ using namespace std;
 int main() {
     int num;
     cin >> num ;
-    if(num = 0){
+    if(num == 0){
         cout << "Zero" << endl;
         
     }else if(num > 0){
