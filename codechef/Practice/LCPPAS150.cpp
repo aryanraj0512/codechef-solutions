@@ -3,7 +3,7 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/skill-test/LCPPAS1/problems/LCPPAS150
-// Solved on: 2026-09-20T15:55:38.510Z
+// Solved on: 2026-09-20T15:55:57.601Z
 
 
 #include <iostream>
@@ -19,7 +19,7 @@ int main() {
     if(x % 2 == 0){
         cout << "Even" << endl;
     }else{
-        cout << "Odd" ;
+        cout << "Odd" << endl;
     }
     }   
     return 0;
