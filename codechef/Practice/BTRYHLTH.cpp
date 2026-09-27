@@ -3,7 +3,7 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/BTRYHLTH?tab=statement
-// Solved on: 2026-09-27T16:56:58.179Z
+// Solved on: 2026-09-27T16:57:05.238Z
 
 #include <bits/stdc++.h>
 using namespace std;
